@@ -1,0 +1,10 @@
+
+> frontend@0.0.0 dev
+> vite --host --port 5174
+
+
+  VITE v7.2.7  ready in 1549 ms
+
+  ➜  Local:   http://localhost:5174/
+  ➜  Network: http://10.65.29.219:5174/
+  ➜  press h + enter to show help
